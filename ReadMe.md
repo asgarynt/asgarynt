@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning BackEnd<br>💬 Ask me about<br>
+# 👋🏽 About Me:
+📚 I’m currently learning<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
